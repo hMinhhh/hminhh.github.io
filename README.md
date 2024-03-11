@@ -1,4 +1,4 @@
 # hminhh.github.io
 hMinh website's resources
 
-theme: jekyll-theme-Minimal
+theme: minimal-mistakes-jekyll
